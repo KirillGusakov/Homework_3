@@ -1,0 +1,7 @@
+public class Example {
+    public String string;
+    public int helloWorld;
+    public void get() {};
+    public void setString(){};
+    public void repos(){};
+}
